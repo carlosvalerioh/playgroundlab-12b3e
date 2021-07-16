@@ -8,7 +8,7 @@
     "base_font": "sans-serif",
     "header": {
         "title": "Event",
-        "logo": "images/logo.svg",
+        "logo": "/images/PLAYGROUND-LAB-pato-amarillo.png",
         "logo_alt": "Event logo",
         "has_primary_nav": false,
         "has_secondary_nav": true,
