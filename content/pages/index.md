@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Comienza en el increíble mundo de la tecnología y sé parte del futuro.
-    subtitle: Conference for Creative People
+    subtitle: Resuelve problemas reales para la vida real.
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
