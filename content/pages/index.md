@@ -51,7 +51,7 @@ sections:
     align: center
     background_color: secondary
   - type: features_section
-    title: What you’ll experience
+    title: 'Tus hijos aprenderán:'
     features:
       - content: >-
           Event is a responsive theme for online events, meetups, conferences
